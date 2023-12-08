@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">Resilience</string>
+    <string name="get_started">Get Started</string>
+    <string name="support_innocent_civilians_in_gaza_with_just_a_few_clicks">Support innocent Civilians in Gaza With just a few Clicks</string>
+    <string name="choose_a_way_to_help">Choose a way to Help:</string>
+    <string name="donate">Donate</string>
+    <string name="contribute_to_the_cause">Contribute to the cause</string>
+    <string name="pray">Pray</string>
+    <string name="pray_for_your_brothers_and_sisters">Pray for your Brothers and sisters</string>
+    <string name="boycott">Boycott</string>
+    <string name="spread_awareness">Spread Awareness</string>
+    <string name="don_t_pay_for_thier_bombs">Don\'t Pay for thier Bombs</string>
+    <string name="be_thier_voice">Be Thier Voice</string>
+    <string name="don_t_pay_for_the_bombs">Don\'t pay for the Bombs</string>
+    <string name="generate_prayer">Generate Prayer</string>
+    <string name="where_are_you_helping_from">Where are you Helping from?</string>
+    <string name="algeria">Algeria</string>
+    <string name="contribute_as_an_algerian">Contribute as an Algerian</string>
+    <string name="other">Other</string>
+    <string name="contribute_as_an_international">Contribute as an International</string>
+    <string name="donate_as_an_algerian">Donate as an Algerian</string>
+    <string name="baraka">جمعية البركة الجزائرية</string>
+    <string name="add1">بئر مراد رايس (لاكوت)، الجزائر.</string>
+    <string name="barakphone">0782018936</string>
+    <string name="barakabank">004 001 854 100 009 720 30</string>
+    <string name="_210_243_29_cle_40">210 243 29 Cle 40</string>
+    <string name="mutafak">متفق عليه</string>
+    <string name="_17_hussein_dey16006">17شارع محمد مربوش, Hussein Dey16006</string>
+    <string name="musphone">023738684</string>
+    <string name="musbank">001 006 200 200 650 061 41</string>
+</resources>
