@@ -53,6 +53,10 @@
             android:name=".BarcodeActivity"
             android:exported="true">
         </activity>
+        <activity
+            android:name=".BoycottedActivity"
+            android:exported="true">
+        </activity>
 
     </application>
 

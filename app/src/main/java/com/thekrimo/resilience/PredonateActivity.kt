@@ -15,14 +15,14 @@ class PredonateActivity : AppCompatActivity () {
         binding.donate.setOnClickListener(){
             val intent = Intent(this, AlgeriaActivity::class.java)
             startActivity(intent)
-            finish()
+
         }
 
 
         binding.back.setOnClickListener{
             val intent = Intent(this, SelectActivity::class.java)
             startActivity(intent)
-            finish()
+
         }
 
 

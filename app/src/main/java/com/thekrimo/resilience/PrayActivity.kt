@@ -15,7 +15,7 @@ class PrayActivity : AppCompatActivity() {
         binding.back.setOnClickListener{
             val intent = Intent(this, SelectActivity::class.java)
             startActivity(intent)
-            finish()
+
         }
 
 

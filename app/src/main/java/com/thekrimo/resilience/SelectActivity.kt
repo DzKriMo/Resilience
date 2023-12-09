@@ -1,5 +1,6 @@
 package com.thekrimo.resilience
 
+
 import android.content.Intent
 import android.os.Bundle
 import androidx.appcompat.app.AppCompatActivity
@@ -18,26 +19,26 @@ class SelectActivity : AppCompatActivity (){
         binding.pray.setOnClickListener(){
             val intent = Intent(this , PrayActivity::class.java)
             startActivity(intent)
-            finish()
+
         }
 
         binding.donate.setOnClickListener(){
             val intent = Intent(this, PredonateActivity::class.java)
             startActivity(intent)
-            finish()
+
         }
 
 
         binding.back.setOnClickListener{
             val intent = Intent(this, MainActivity::class.java)
             startActivity(intent)
-            finish()
+
         }
 
         binding.boycott.setOnClickListener{
             val intent = Intent(this , BarcodeActivity::class.java)
             startActivity(intent)
-            finish()
+
         }
 
 
